@@ -1,4 +1,14 @@
 introduction
+impact-producing-factors
+noise
+examples
+oceanographic-effects
+examples-1
+vessels
+examples-2
+presence-of-structures
+examples-3
+benthic-habitat-modification
 north-atlantic-right-whale
 stock-description
 preydiet-specificity
