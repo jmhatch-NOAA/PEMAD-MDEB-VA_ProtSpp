@@ -16,6 +16,7 @@ habitat-specificity
 site-fidelity
 lifetime-reproductive-potential
 generation-length
+reproductive-plasticity
 migration
 home-range
 stock-abundance
@@ -30,7 +31,7 @@ habitat-specificity-1
 site-fidelity-1
 lifetime-reproductive-potential-1
 generation-length-1
-reproductive-plasticity
+reproductive-plasticity-1
 migration-1
 home-range-1
 stock-abundance-1
@@ -44,7 +45,7 @@ habitat-specificity-2
 site-fidelity-2
 lifetime-reproductive-potential-2
 generation-length-2
-reproductive-plasticity-1
+reproductive-plasticity-2
 migration-2
 home-range-2
 stock-abundance-2
@@ -58,7 +59,7 @@ habitat-specificity-3
 site-fidelity-3
 lifetime-reproductive-potential-3
 generation-length-3
-reproductive-plasticity-2
+reproductive-plasticity-3
 migration-3
 home-range-3
 stock-abundance-3
