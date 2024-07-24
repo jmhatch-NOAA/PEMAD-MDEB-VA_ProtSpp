@@ -2,7 +2,7 @@
 
 ## What is an Impact Producing Factor?
 
-An action or activity, like offshore wind development, can result in one or more impact-producing factors (IPFs). Those IPFs illustrate how an action or activity affects relevant physical, biological, economic, or cultural resources. The effects or impacts resulting from the interaction between an IPF and a resource can be positive, negative, or neutral. Identifying multiple actions or activities and related IPFs, then, is one way to demonstrate cumulative impact on relevant resources and to assess how vulnerable affected resources are to evaluated actions or activities.
+An action or activity, like offshore wind development, can result in one or more impact-producing factors (IPFs). Those IPFs illustrate how an action or activity affects relevant physical, biological, economic, or cultural resources. The effects or impacts resulting from the interaction between an IPF and a resource can be positive, negative, or neutral. Identifying multiple actions or activities and related IPFs, then, is one way to demonstrate cumulative impact on relevant resources and to assess how vulnerable those affected resources are to evaluated actions or activities.
 
 For more information, see [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-offshore-wind-cumulative-impacts-scenario-n-ocs).
 
