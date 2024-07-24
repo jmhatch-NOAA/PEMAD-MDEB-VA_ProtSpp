@@ -29,3 +29,17 @@ Very High
 ### Data Quality
 
 100% of scores greater than or euqal to 2
+
+## Vulnerability to Offshore Wind Development
+
+### Noise
+
+[Nowacek, Johnson, and Tyack (2004)](https://royalsocietypublishing.org/doi/10.1098/rspb.2003.2570) found that North Atlantic right whales (NARWs) did not respond strongly to recordings of ship noise or social sounds of conspecifics. However, they did respond strongly to signals designed to alert the whales that resulted in disrupted behaviors. The whales exposed to the alert signal demonstrated abandoned dives, shallow-angled and high powered ascents, longer than usual surface intervals (ie, remaining at the surface for the duration of the exposure to the alert), and spent an abnomral amount of time near the surface at subsurface depths (1 - 10 meters).
+
+"The alert sound was an 18 min exposure consisting of three 2 min signals played sequentially three times over. The three signals had a 60% duty cycle and consisted of: (i) alternating 1 s pure tones at 500 and 850 Hz; (ii) a 2 s logarithmic down-sweep from 4500 to 500 Hz; and (iii) a pair of low-high (1500 and 2000 Hz) sine wave tones amplitude modulated at 120 Hz and each 1 s long."
+
+### Oceanographic Effects
+
+### Vessels
+
+### Presence of Structures
