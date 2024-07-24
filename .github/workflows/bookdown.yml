@@ -29,7 +29,7 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Build book
-        run: Rscript -e 'bookdown::render_book("index.rmd", "all", quiet = TRUE)'
+        run: Rscript -e 'bookdown::render_book("index.rmd", "all")'
 
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4
