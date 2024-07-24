@@ -2,5 +2,7 @@
 .github
 .git
 data-raw/
+data/
+R/
 refs/
 bookdown/_book
