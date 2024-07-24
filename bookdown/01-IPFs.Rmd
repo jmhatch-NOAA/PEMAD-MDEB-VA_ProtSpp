@@ -32,7 +32,7 @@ Man-made underwater noise can disrupt the normal behavior of marine wildlife. An
 
 <br/>For zones 1, 3, and 4, man-made underwater noise must be detected by the animal for a disruption to occur. For zone 2, man-made underwater noise must augment the ambient noise in a way that limits detection of signals of interest by the animal (ie, changing the detection threshold).
 
-All phases of offshore wind development emit noise. Those phases include (1) site surveys, (2) construction, (3) operations and maintenance, and (4) decommissioning.
+All phases of offshore wind development will emit noise. Those phases include (1) site surveys, (2) construction, (3) operations and maintenance, and (4) decommissioning.
 
 ![**Figure**: Acoustic life of an offshore wind farm area, including during site surveys, construction, operations and maintenance, and decommissioning. Image modified from [Mooney et al. (2020)](https://tos.org/oceanography/article/acoustic-impacts-of-offshore-wind-energy-on-fishery-resources-an-evolving-source-and-varied-effects-across-a-wind-farms-lifetime).](images/figure_1_Mooney-et-al-2020.jpg){.class width="100%"}
 
@@ -40,7 +40,7 @@ All phases of offshore wind development emit noise. Those phases include (1) sit
 
 ### Site surveys
 
-Once a lease area is awarded, geophysical surveys are conducted to characterize site conditions and geologic constraints in support of engineering assessments. Most geophysical surveys use some type of acoustic mapping technology, such as sonar or echosounders. Site surveys also include vessel noise.
+Once a lease area is awarded, geophysical surveys are conducted to characterize site conditions and geologic constraints in support of engineering assessments. Most geophysical surveys use some type of acoustic mapping technology, such as sonar or echosounders. Site surveys will also include vessel noise.
 
 ### Construction
 
@@ -64,8 +64,7 @@ Example and audio files from [UMCES](https://www.umces.edu/cbl/story/2013/oct/16
 
 ### Operations and maintenance
 
-Most offshore wind farms will have a lifespan of 20 - 30 years. Operational noises are thought to extend several kilometers before being masked by ambient noise, although certain tonal frequencies can extend as far as 10s of kilometers. Sound source levels for operational noise of offshore wind farms are thought to be equivalent of a large commercial ship. Operations and maintenance will also include vessel noise.
-
+Most offshore wind farms will have a lifespan of 20 - 30 years. Operational noises are thought to extend several kilometers before being masked by ambient noise, although certain tonal frequencies can extend as far as 10s of kilometers. Sound source levels for operational noise of offshore wind farms are thought to be equivalent to a large commercial ship. Operations and maintenance will also include vessel noise.
 
 ### Decommissioning
  
