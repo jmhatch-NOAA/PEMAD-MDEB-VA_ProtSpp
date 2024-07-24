@@ -1,0 +1,210 @@
+# North Atlantic Right Whale
+
+## Stock Description
+
+The North Atlantic right whale (*Eubalaena glacialis*) Western Atlantic Stock (NARW) includes
+individuals that are found in waters of the U.S. Exclusive Economic Zone
+in the western North Atlantic and adjacent offshore and Canadian waters
+(Hayes et al. 2022).
+
+## Prey/Diet Specificity
+
+The NARW diet consists primarily of late-stage juveniles and adults of
+copepods in the genera Calanus and Pseudocalanus (Nemoto 1970; Cummings
+1985; Kenney et al. 1985; Mayo and Marx 1990; Beardsley et al. 1996;
+Mayo et al. 2001; Baumgartner et al. 2003, 2007; Pendleton et al. 2009;
+Meyer-Gutbrod et al. 2015). NARWs are also known to occasionally feed on
+other smaller copepods, krill, pteropods, or the planktonic larval
+stages of barnacles and other crustaceans (Kenney 2018).
+
+## Habitat Specificity
+
+Two critical habitats for North Atlantic right whales are designated in
+U.S. waters: a calving area extending from just south of Cape Canaveral,
+Florida to Cape Fear, North Carolina, and a foraging area encompassing
+the U.S. portion of the Gulf of Maine (NMFS 2016). Feeding areas in the
+Bay of Fundy and Roseway Basin in Canadian waters are designated as
+critical habitats by Canadian authorities (Fisheries and Oceans Canada
+2014).
+
+The winter calving grounds are characterized by cooler, shallow
+nearshore waters inshore of a mid-shelf front (Kraus et al. 1993; Ward
+1999; Keller et al. 2006).
+
+Feeding areas are in nearshore and shelf waters, where some combination
+of bottom topography, water column structure and stratification, and
+currents acts to physically aggregate zooplankton into extremely dense
+concentrations (Kenney et al. 1986, 1995; Wishner et al. 1988; Murison
+and Gaskin 1989; Kenney and Wishner 1995; Macaulay et al. 1995;
+Beardsley et al. 1996; Mate et al. 1997; Mate and Baumgartner 2001;
+Baumgartner et al. 2003, 2007; Baumgartner and Mate 2005). There are
+probably also offshore feeding grounds, in locations not yet known,
+based on historical whaling records and on the fact that some known
+whales are often missing from the known habitats for months or years at
+a time (Kenney 2018).
+
+## Site Fidelity
+
+NARWs have historically aggregated seasonally in seven areas: 1) the
+coastal waters of the southeastern United States; 2) the Great South
+Channel; 3) Jordan Basin; 4) Georges Basin along the northeastern edge
+of Georges Bank; 5) Cape Cod and Massachusetts Bays; 6) the Bay of
+Fundy; and 7) the Roseway Basin on the Scotian Shelf (Watkins and
+Schevill 1982; Winn et al. 1986; Kenney et al. 1995; Brown et al. 2001;
+Hlista et al. 2009; Pendleton et al. 2009; Cole et al. 2013, 2016; Khan
+et al. 2016, 2018). Since 2013, NARWs have been increasingly present in
+the Gulf of St. Lawrence from late spring through early fall (Cole et
+al. 2016; Khan et al. 2016, 2018), and over the last decade occurrence
+of NARWs south of Massachusetts and Rhode Island has been increasing, as
+well as expanding temporally from mainly winter-spring to year-round
+(Leiter et al. 2017; Stone et al. 2017; Quintana-Rizzo et al. 2021;
+O’Brien et al. 2022).
+
+Despite seasonal aggregation, there is high interannual variability in
+right whale use of some habitats (Pendleton et al. 2009) and whales may
+abandon feeding grounds during periods of low prey abundance (Kenney
+2001; Patrician and Kenney 2010). Use of seasonal habitat is further
+divided by sex and reproductive state, with nursing mothers showing
+preference for different feeding grounds and likely passing that
+preference on to their offspring (Schaeff et al. 1993; Malik et al.
+1999; Brown et al. 2001; Frasier et al. 2007).
+
+## Lifetime Reproductive Potential
+
+Mean calving interval is reported from 3 to 4 years, although
+interannual variability is high (Knowlton et al. 1994; Hamilton et al.
+1998; Kraus et al. 2001, 2007; Taylor et al. 2007; Pettis et al. 2021).
+Taylor et al. (2007) estimated Eubalaena glacialis age at last
+reproduction of 57 years. NARW average age at first reproduction is
+reported in the range of 9 to 10 years (Kraus et al. 2001; Taylor et al.
+2007).
+
+The youngest mature female in the western North Atlantic was 4 at
+maturity and 5 at first calving (Knowlton et al. 1994). The oldest known
+NARW was estimated to be over 70 years old based on sighting data (Kraus
+and Rolland 2007). Corkeron et al. (2018) estimated that half of male
+NARWs are dead by age 35, and half of females by age 20, in comparison
+to estimates of 46–69 years for southern right whales.
+
+## Generation Length
+
+Taylor et al. (2007) report generation length of 23.3 years at r=0.05
+and 35.7 years at r=0.0. 
+
+## Reproductive Plasticity 
+
+Calving grounds are in shallow coastal regions or bays in the western North Atlantic near
+Georgia and northeastern Florida (Winn et al. 1986; Kraus et al. 1993;
+Kraus and Rolland 2007) and as far north as North Carolina (Good 2008).
+Right whales show a clear preference for waters in a relatively narrow
+depth and temperature range — 13–19 m and 13–16°C (Keller et al. 2006).
+Calving season runs December through March (Kraus et al. 1993, 2001;
+Kraus and Rolland 2007; Hamilton and Cooper 2010). The central Gulf of
+Maine and Roseway Basin on the southwestern Scotian Shelf are possible
+mating areas, at least in some years (Mussoline et al. 2012; Cole et al.
+2013; Brillant et al. 2015; Bort et al. 2015).
+
+## Migration
+
+The NARW population migrates primarily from calving grounds in coastal
+waters of the southeastern United States to feeding grounds in New
+England waters and the Canadian Bay of Fundy, Scotian Shelf, and Gulf of
+St. Lawrence (Winn et al. 1986; Hamilton and Mayo 1990; Gaskin 1991;
+Kenney 2001; Kraus et al. 1993; Nichols et al. 2008), although not all
+individuals complete this migration (Whitt et al. 2013).
+
+## Home Range
+
+Although much of the population is found within the migratory range from
+Florida to New England and the Canadian Maritimes, NARWs have undertaken
+long-distance movements to locations as far north as Newfoundland, the
+Labrador Basin, southeast of Greenland, Iceland, Norway, the British
+Isles, France, the Azores, Madeira, and the Canaries (Knowlton et al.
+1992; Mate et al. 1997; IWC 2001; Jacobsen et al. 2004; Kenney et al. in
+press). NARWs have also been observed, particularly by passive acoustic
+monitoring, to occur in any season and at nearly any location within the
+overall range (Whitt et al. 2013; Davis et al. 2017; Hayes et al. 2022).
+
+## Stock Abundance
+
+The abundance of the Western Atlantic stock of NARWs has been monitored
+since the stock assessment process was instituted in 1995 using the
+catalog of identified individuals (see
+[here](https://www.fisheries.noaa.gov/national/marine-mammal-protection/marine-mammal-stockassessment-%20reports-region)).
+The 2007 SAR was the first to assess the minimum abundance using the
+Minimum Number Alive (MNA) method, which calculates the sum of the known
+whales seen in a given year plus any others that were seen both before
+and after that year. After about 2010, changes in distribution patterns
+reduced resighting probabilities and made the MNA method less useful and
+reliable. Pace et al. (2017) developed a new method using Bayesian
+state-space modeling, still based on the photoID catalog. That method is
+now being used in both the stock assessments and the annual North
+Atlantic Right Whale Consortium “report cards” (e.g., Pettis et al.
+2021). Pace et al. (2017) reported the peak abundance of 482 in 2010,
+followed by a decline to 458 in 2015. The NOAA Fisheries 2021 SAR
+reported an abundance estimate of 368 individuals (95% CI = 356–378) as
+of November 2019 (Hayes et al. 2022). In October 2022, the North
+Atlantic Right Whale Consortium announced a revised 2020 abundance
+estimate (348 +/-5) and released a 2021 abundance estimate (340 +/-7;
+NEAQ 2022).
+
+## Stock Abundance Trend
+
+Knowlton et al. (1994) estimated that the NARW population grew at 2.5%
+during 1986–1992. A model by Caswell et al. (1999) suggested that
+population growth reversed to a decline of the same magnitude during the
+1990s, but that decline was of short duration. Subsequent analyses by
+Pace et al. (2017), Corkeron et al. (2018), and in the stock assessments
+show growth at about 2.8% from 1990 to 2011 but a statistically
+significant decline since then. The decline is due to both an increase
+in mortality, especially from entanglement, and a decline in
+reproduction (Corkeron et al. 2018; Pettis et al. 2021; Hayes et al.
+2022).
+
+## Cumulative Stressors
+
+Threats to NARW are summarized in five-year status reviews (NMFS 2017),
+annual report cards (e.g., Pettis et al. 2021; see www.narwc.org for
+previous and future years), and annual stock assessment reports (e.g.,
+Hayes et al. 2022; see
+[here](https://www.fisheries.noaa.gov/national/marine-mammalprotection/marine-mammal-stock-assessment-reports-species-stock)
+for previous and future years). These threats include vessel strikes
+(van der Hoop et al. 2012, 2015; Wiley et al. 2016; Henry et al. 2021),
+and entanglement in fishing gear (Knowlton et al. 2012; van der Hoop et
+al. 2017) as primary sources of mortality and serious injury, with
+contaminants, disease, habitat modification, and noise pollution as some
+examples of additional concerns (Nowacek et al. 2007; Weilgart 2007;
+Rolland et al. 2012; Rice et al. 2014).
+
+NARWs had an estimated annual human-caused mortality and serious injury
+(detected and cryptic/undetected) of 27.4 whales during the period
+2014–2018 (Pace et al. 2021; Hayes et al. 2022). During that period,
+fishery entanglement accounted for 6.85 detected mortalities and serious
+injuries per year and vessel strikes accounted for 1.3 detected
+mortalities and serious injuries per year. Since 2017, an Unusual
+Mortality Event (UME) has been declared for NARW that includes 92
+documented dead, serious injury, or morbidity (sublethal
+injuries/illness) whales in the U.S. and Canada (see
+[here](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2021-north-atlantic-right-whaleunusual-mortality-event)).
+
+## Other Relevant Information
+
+Several studies have examined NARW within the context of climate change.
+Studies have found that climate-driven changes in oceanographic
+conditions alter the distribution and abundance of NARW prey and affect
+NARW foraging patterns (Meyer-Gutbrod and Greene 2014; Runge et al.
+2015; Meyer- Gutbrod et al. 2015, 2021; Davis et al. 2017; Grieve et al.
+2017; Record et al. 2019; Sorochan et al. 2019; Brennan et al. 2021;
+Gavrilchuk et al. 2021). Several projections of NARW future distribution
+have been based on projected Calanus spp. distribution (Pendleton et al.
+2012; Daoust et al. 2017; Meyer-Gutbrod et al. 2018; Ross et al. 2021),
+while other studies have projected NARW abundance based on future
+environmental conditions (Meyer-Gutbrod and Greene 2018). Areas used by
+NARW have experienced a high degree of environmental change in recent
+years and are projected to continue to experience significant change
+(Saba et al. 2016; Pershing et al. 2021).
+
+## Distribution and Sightings
+
+Density model results for NARW in the western North Atlantic are
+presented by Roberts et al. (2016a, 2016b, 2020, 2021a, 2021b).

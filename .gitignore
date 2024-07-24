@@ -1,1 +1,6 @@
-
+.Rproj.user
+.github
+.git
+data-raw/
+refs/
+bookdown/_book
