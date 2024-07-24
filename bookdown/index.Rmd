@@ -8,6 +8,7 @@ output:
     repo:
       base: https://github.com/jmhatch-NOAA/PEMAD-OWEB-VA_ProtSpp
       branch: main
+      subdir: bookdown
 documentclass: krantz
 monofont: "Source Code Pro"
 monofontoptions: "Scale=0.7"
@@ -25,4 +26,4 @@ The increasing demand for renewable energy is driving offshore wind development 
 
 However, OSW development in the US Greater Atlantic Region (GAR) coincides with significant proportions of marine mammal and sea turtle populations, with impacts from OSW farms being a major concern.
 
-All marine mammal stock profiles and narratives were taken from [Lettrich et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643).
+Overviews of marine mammal stock climate vulnerability analyses were taken from [Lettrich et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643).

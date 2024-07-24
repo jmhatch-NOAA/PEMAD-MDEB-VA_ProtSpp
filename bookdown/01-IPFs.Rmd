@@ -2,11 +2,11 @@
 
 ## What is an Impact Producing Factor?
 
-An action or activity, like offshore wind development, can result in one or more impact-producing factors (IPFs). Those IPFs illustrate how an action or activity affects relevant physical, biological, economic, or cultural resources. The effects or impacts resulting from the interaction between an IPF and a resource can be positive, negative, or neutral. Identifying multiple actions or activities and related IPFs, then, is one way to demonstrate cumulative impact on relevant resources to assess how vulnerable affected resources are to actions or activities.
+An action or activity, like offshore wind development, can result in one or more impact-producing factors (IPFs). Those IPFs illustrate how an action or activity affects relevant physical, biological, economic, or cultural resources. The effects or impacts resulting from the interaction between an IPF and a resource can be positive, negative, or neutral. Identifying multiple actions or activities and related IPFs, then, is one way to demonstrate cumulative impact on relevant resources and to assess how vulnerable affected resources are to evaluated actions or activities.
 
 For more information, see [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-offshore-wind-cumulative-impacts-scenario-n-ocs).
 
-![**Figure**: General conceptual diagram linking cumulative actions or activities, IPFs, and affected resources. Image from [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-offshore-wind-cumulative-impacts-scenario-n-ocs).](images/IPFs-in-the-Offshore-Wind-Cumulative-Impacts-Scenario-on-the-N-OCS.jpg){.class width="100%"}
+![**Figure**: General conceptual diagram linking cumulative actions or activities, IPFs, and affected resources. Image from [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-offshore-wind-cumulative-impacts-scenario-n-ocs).](images/figure_2-1_boem_2019.jpg){.class width="100%"}
 
 <br/>Offshore wind development will result in 4 primary IPFs that may affect protected species. Those IPFs include:
 
@@ -20,23 +20,33 @@ For more information, see [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-off
 
 ## Noise
 
-Underwater noise is generated when objects underwater vibrate causing a pressure wave to travel through the water. Underwater noise, then, has components of both pressure and vibration that is often referred to as particle motion or velocity.
+Underwater noise is generated when objects underwater vibrate causing a pressure wave to travel through the water. Underwater noise, then, has components of both pressure and vibration that is often referred to as particle motion.
 
-![**Figure**: Sound is a longitudinal wave. Red dots and arrows illustrate individual particle motion. The black arrow illustrates the motion of a wave as the compression of particles moves through the medium. Image from [Dan Russell.](https://www.acs.psu.edu/drussell/Demos/waves/wavemotion.html)](images/L-Wave-Red.gif){.class width="100%"}
+![**Figure**: Sound is a pressure wave. Red dots and arrows illustrate individual particle motion. The black arrow illustrates the motion of a wave as the compression of particles moves through the medium (in this case water). Image from [Dan Russell.](https://www.acs.psu.edu/drussell/Demos/waves/wavemotion.html)](images/L-Wave-Red.gif){.class width="100%"}
 
-<br/>Marine mammals, and to a lesser extent sea turtles, use underwater noise for a number of purposes that include communication, navigation, social interaction, reproduction, foraging, and predator avoidance or deterrence. Acoustic disturbance from underwater noise, then, has the potential to impact marine wildlife (marine mammals and sea turtles) in a variety of ways and to varying degrees depending on the characteristics of the noise (amplitude, frequency, duration, transmission loss), the environment, and the species. Those impacts can ultimately result in auditory injury or hearing loss, auditory masking, or behavioral changes that can be tricky to quantify. 
+<br/>Marine mammals, and to a lesser extent sea turtles, use underwater noise for a number of purposes that include communication, navigation, social interaction, reproduction, foraging, and predator avoidance or deterrence. Acoustic disturbance from underwater noise, then, has the potential to impact marine wildlife (marine mammals and sea turtles) in a variety of ways and to varying degrees depending on the characteristics of the noise (amplitude, frequency, duration, transmission loss), the habitat, and the species. Those impacts can ultimately result in auditory injury or hearing loss, auditory masking, or behavioral changes that can be tricky to quantify. 
 
-Man-made underwater noise can disrupt the normal behavior of marine wildlife. But the degree of disruption depends on a variety of factors, as discussed above. It is common to categorize that degree of disruption into zones: (1) zone of audibility, (2) zone of masking, (3) zone of responsiveness, and (4) zones of impairment and injury. 
+Man-made underwater noise can disrupt the normal behavior of marine wildlife. And it is common to categorize that degree of disruption into zones: (1) zone of audibility, (2) zone of masking, (3) zone of responsiveness, and (4) zones of impairment and injury. 
 
-![**Figure**: The potential effects of noise with distance from source. Generally, noise and impact on individual animals may be greater closer to the source. Effects change with increasing distance from the source, as the acoustic signals change including that received levels decrease. Image modified from [Mooney et al. (2020)](https://tos.org/oceanography/article/acoustic-impacts-of-offshore-wind-energy-on-fishery-resources-an-evolving-source-and-varied-effects-across-a-wind-farms-lifetime).](images/Pages from Mooney-et-al-2020.png){.class width="100%"}
+![**Figure**: The potential effects of noise with distance from source. Generally, noise and impact on individual animals may be greater closer to the source. Effects change with increasing distance from the source, as the acoustic signals change including that received levels decrease. Image modified from [Mooney et al. (2020)](https://tos.org/oceanography/article/acoustic-impacts-of-offshore-wind-energy-on-fishery-resources-an-evolving-source-and-varied-effects-across-a-wind-farms-lifetime).](images/figure_2_Mooney-et-al-2020.png){.class width="100%"}
 
-<br/>For zones 1, 3, and 4, man-made underwater noise must be detected by the animal for a disruption to ensue. For zone 2, man-made underwater noise must augment the ambient noise in a way that limits detection of signals of interest by the animal (ie, changing the detection threshold).
+<br/>For zones 1, 3, and 4, man-made underwater noise must be detected by the animal for a disruption to occur. For zone 2, man-made underwater noise must augment the ambient noise in a way that limits detection of signals of interest by the animal (ie, changing the detection threshold).
 
 All phases of offshore wind development emit noise. Those phases include (1) site surveys, (2) construction, (3) operations and maintenance, and (4) decommissioning.
 
-![Figure: Acoustic life of an offshore wind farm area, including during site surveys, construction, operations and maintenance, and decommissioning. Image modified from Mooney et al. (2020).](images/Mooney-et-al-2020.jpg){.class width="100%"}
+![**Figure**: Acoustic life of an offshore wind farm area, including during site surveys, construction, operations and maintenance, and decommissioning. Image modified from [Mooney et al. (2020)](https://tos.org/oceanography/article/acoustic-impacts-of-offshore-wind-energy-on-fishery-resources-an-evolving-source-and-varied-effects-across-a-wind-farms-lifetime).](images/figure_1_Mooney-et-al-2020.jpg){.class width="100%"}
 
-<br/>Underwater noise generated during an offshore wind farm's life cycle will vary by intensity and duration, as well as distance from the sound source. As an example, below is the sound from underwater pile-driving from 500 meters,
+<br/>Below is a brief overview of underwater noise that could be generated during each phase of offshore wind development, which will vary by intensity and duration.
+
+### Site surveys
+
+Once a lease area is awarded, geophysical surveys are conducted to characterize site conditions and geologic constraints in support of engineering assessments. Most geophysical surveys use some type of acoustic mapping technology, such as sonar or echosounders. Site surveys also include vessel noise.
+
+### Construction
+
+Installation of foundations using impact pile-driving is one of the most significant noise-generating activities during construction. Impact pile-driving is acute, relatively short in duration, and can be heard 10s of kilometers from the sound source. Construction will also include vessel noise.
+
+As an example, below is the sound from underwater pile-driving from 500 meters,
 
 <html>
 <audio controls>
@@ -50,14 +60,13 @@ This is what it would sound like from more than 18 miles away (35 km) away,
   <source src="images/Piling @ 30km.m4a" type="audio/wav">
 </audio></html>
 
-Sound files from [UMCES](https://www.umces.edu/cbl/story/2013/oct/16/assessing-impact-noise-offshore-wind-farm-construction-may-help-protect-marine-mam).
+Example and audio files from [UMCES](https://www.umces.edu/cbl/story/2013/oct/16/assessing-impact-noise-offshore-wind-farm-construction-may-help-protect-marine-mam).
 
-Refers to noise from various sources. Commonly associated with construction activities, geophysical and geotechnical surveys, naval testing and training, and vessel traffic. May be impulsive, e.g., pile driving or weapons detonation, or may be broad spectrum and continuous, e.g., cumulative noise from marine transportation vessels. May also be from natural sources, e.g., wind and wave action.
+### Operations and maintenance
 
-### Examples
+Most offshore wind farms will have a lifespan of 20 - 30 years. Operational noises are thought to extend several kilometers before being masked by ambient noise, although certain tonal frequencies can extend as far as 10s of kilometers. Sound source levels for operational noise of offshore wind farms are thought to be equivalent of a large commercial ship. Operations and maintenance will also include vessel noise.
 
--   G&G (Geological & Geophysical)
--   O&M (Operation & Maintenance)
--   Pile driving
--   Turbines
--   Vessels
+
+### Decommissioning
+ 
+TBD

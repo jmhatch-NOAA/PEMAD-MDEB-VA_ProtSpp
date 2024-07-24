@@ -1,4 +1,4 @@
-# build Bookdown
+# build bookdown
 on:
   push:
     branches:
