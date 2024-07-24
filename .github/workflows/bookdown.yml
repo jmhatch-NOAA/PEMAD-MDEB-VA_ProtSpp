@@ -33,7 +33,7 @@ jobs:
 
       - name: Build book
         run: |
-          setwd("./bookdown")
+          setwd("bookdown")
           bookdown::render_book("index.rmd", "all")
         shell: Rscript {0}
 
