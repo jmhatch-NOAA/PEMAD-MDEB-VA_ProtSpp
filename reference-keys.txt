@@ -13,3 +13,8 @@ overall-vulnerability-rank
 biological-sensitivity
 climate-exposure
 data-quality
+vulnerability-to-offshore-wind-development
+noise-1
+oceanographic-effects
+vessels
+presence-of-structures
