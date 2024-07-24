@@ -22,7 +22,7 @@ jobs:
 
       - name: Install bookdown
         run: |
-          install.packages("bookdown")
+          install.packages(c("downlit", "xml2"))
         shell: Rscript {0}
 
       - name: Build book
