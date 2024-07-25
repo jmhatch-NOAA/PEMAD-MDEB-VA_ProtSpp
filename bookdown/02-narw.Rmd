@@ -33,7 +33,7 @@ Very High
 ## Abundance map
 ```{r, echo = FALSE, warning = FALSE, results = 'asis'}
 # data
-narw_abundance = '../data-raw/MDAT_MammalModels_Abundance/MammalModels_Abundance/commondata/raster_data' |>
+narw_abundance = '../data/MDAT_MammalModels_Abundance/MammalModels_Abundance/commondata/raster_data' |>
   list.files(pattern = '*North_Atlantic_right_whale.*\\.img$', full.names = TRUE) |>
   purrr::map(.x  = _, .f = function(.x) 1 * terra::rast(.x)) |>
   terra::rast()
