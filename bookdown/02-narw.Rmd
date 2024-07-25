@@ -30,7 +30,7 @@ Very High
 
 100% of scores greater than or euqal to 2
 
-## Abundance map
+## Abundance Map
 ```{r, echo = FALSE, warning = FALSE, results = 'asis'}
 # data
 narw_abundance = '../data/MDAT_MammalModels_Abundance/MammalModels_Abundance/commondata/raster_data' |>

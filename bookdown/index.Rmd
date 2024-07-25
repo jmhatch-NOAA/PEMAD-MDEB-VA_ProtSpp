@@ -22,13 +22,15 @@ rmd_files: ["index.Rmd", "01-IPFs.Rmd", "02-narw.Rmd"]
 
 # Introduction
 
-The increasing demand for renewable energy is driving offshore wind development in the United States (US) at an unprecedented rate. The US has a target to reach 30 GW by 2030, with an additional 15 GW from floating substructures by 2035, and aims to produce at least 110 GW by 2050.
+The increasing demand for renewable energy is driving offshore wind (OSW) development in the United States (US) at an unprecedented rate. The US has a target to reach 30 GW by 2030, with an additional 15 GW from floating substructures by 2035, and aims to produce at least 110 GW by 2050.
 
 However, OSW development in the US Greater Atlantic Region (GAR) coincides with significant proportions of marine mammal and sea turtle populations, with impacts from OSW farms being a major concern.
 
 ## Vulnerability assessment
 
-An approach to determine what protected species are most vulnerable to offshore wind development and what factors could potentially be contributing to that vulnerability.
+A vulnerability assessment is a general method to determine the vulnerability of protected species to OSW development and what factors could be contributing to that vulnerability.
+
+The Offshore Wind Vulnerability Assessment (OSWVA) was designed in a similar way to the Marine Mammal and Sea Turtle Climate Vulnerability Assessments (MM- and STCVAs) by using an expert-based scoring approach. Experts will be asked to score multiple features for two separate components: 1) overlap or exposure to factors related to offshore wind development (ie, exposure factors) and 2) sensitivity to those exposure factors. 
 
 ### Vulnerability outcomes
 
@@ -77,4 +79,4 @@ map
 
 ## CVAs
 
-Overviews of marine mammal stock climate vulnerability analyses were taken from [Lettrich et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643).
+Overviews of the MMCVAs were taken from [Lettrich et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643).
