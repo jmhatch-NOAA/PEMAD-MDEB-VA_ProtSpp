@@ -15,7 +15,7 @@ monofontoptions: "Scale=0.7"
 link-citations: yes
 colorlinks: yes
 graphics: yes
-description: ""
+description: "Identify what protected species may be most vulnerable to offshore wind development."
 github-repo: jmhatch-NOAA/PEMAD-OWEB-VA_ProtSpp
 rmd_files: ["index.Rmd", "01-IPFs.Rmd", "02-narw.Rmd"]
 ---
@@ -25,5 +25,56 @@ rmd_files: ["index.Rmd", "01-IPFs.Rmd", "02-narw.Rmd"]
 The increasing demand for renewable energy is driving offshore wind development in the United States (US) at an unprecedented rate. The US has a target to reach 30 GW by 2030, with an additional 15 GW from floating substructures by 2035, and aims to produce at least 110 GW by 2050.
 
 However, OSW development in the US Greater Atlantic Region (GAR) coincides with significant proportions of marine mammal and sea turtle populations, with impacts from OSW farms being a major concern.
+
+## Vulnerability assessment
+
+An approach to determine what protected species are most vulnerable to offshore wind development and what factors could potentially be contributing to that vulnerability.
+
+### Vulnerability outcomes
+
+- Serious injury / mortality
+    - Noise
+      - Distance to sound source
+    - Vessel strike
+      - Vessel speed and approach
+      - Ability to detect and then avoid a vessel, if possible
+    - Indirect (knock-on) effects to prey or habitat
+    - Avoidance
+- Sub-lethal effects / morbidity
+- Behavioral disruptions
+- Displacement
+    - Avoidance
+    - Habitat limited / flexible
+
+## Scope
+
+### Geographic
+```{r, echo = FALSE, warning = FALSE, results = 'asis'}
+# load libraries
+library(leaflet)
+
+# data
+sne = '../data/sne_region.shp' |>
+  sf::st_read(quiet = TRUE)
+mari = '../data/mari_weas.gpkg' |>
+  sf::st_read(quiet = TRUE)
+
+# add data
+map = leaflet(width = '100%') |>
+  addTiles() |>
+  addPolygons(data = sne, fillColor = 'transparent', color = 'black', popup = ~REGION) |>
+  addPolygons(data = mari, popup = ~LEASENM)
+map
+```
+
+### Species
+
+- [North Atlantic right whale](#north-atlantic-right-whale)
+- Humpback whale
+- Harbor porpoise
+- Grey seal
+- Leatherback turtle
+
+## CVAs
 
 Overviews of marine mammal stock climate vulnerability analyses were taken from [Lettrich et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643).

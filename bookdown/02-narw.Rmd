@@ -30,11 +30,54 @@ Very High
 
 100% of scores greater than or euqal to 2
 
+## Abundance map
+```{r, echo = FALSE, warning = FALSE, results = 'asis'}
+# data
+narw_abundance = '../data-raw/MDAT_MammalModels_Abundance/MammalModels_Abundance/commondata/raster_data' |>
+  list.files(pattern = '*North_Atlantic_right_whale.*\\.img$', full.names = TRUE) |>
+  purrr::map(.x  = _, .f = function(.x) 1 * terra::rast(.x)) |>
+  terra::rast()
+names(narw_abundance) = month.name
+
+# bbox
+sne_bb = sne |>
+  sf::st_bbox() |>
+  as.numeric()
+
+# colors
+duke_colors = c('#7a0402', '#b01c02', '#d93b07', '#f26518', '#fc9c2d', '#f2c738', '#d0e835', '#a3fc3d', '#65fc6a', '#2deba2', '#24ced4', '#39a8f7', '#4678eb', '#4346ab', '#30123b')
+duke_bins = c(10, 6.3, 4, 2.5, 1.6, 1, 0.63, 0.40, 0.25, 0.16, 0.10, 0.063, 0.040, 0.025, 0.016, 0)
+narw_pal = colorBin(palette = duke_colors, bins = duke_bins, na.color = 'transparent', reverse = TRUE)
+
+# add data
+map = leaflet(width = '100%') |>
+  addTiles() |>
+  addRasterImage(narw_abundance[[1]], colors = narw_pal, method = 'ngb', group = 'January') |>
+  addRasterImage(narw_abundance[[2]], colors = narw_pal, method = 'ngb', group = 'February') |>
+  addRasterImage(narw_abundance[[3]], colors = narw_pal, method = 'ngb', group = 'March') |>
+  addRasterImage(narw_abundance[[4]], colors = narw_pal, method = 'ngb', group = 'April') |>
+  addRasterImage(narw_abundance[[5]], colors = narw_pal, method = 'ngb', group = 'May') |>
+  addRasterImage(narw_abundance[[6]], colors = narw_pal, method = 'ngb', group = 'June') |>
+  addRasterImage(narw_abundance[[7]], colors = narw_pal, method = 'ngb', group = 'July') |>
+  addRasterImage(narw_abundance[[8]], colors = narw_pal, method = 'ngb', group = 'August') |>
+  addRasterImage(narw_abundance[[9]], colors = narw_pal, method = 'ngb', group = 'September') |>
+  addRasterImage(narw_abundance[[10]], colors = narw_pal, method = 'ngb', group = 'October') |>
+  addRasterImage(narw_abundance[[11]], colors = narw_pal, method = 'ngb', group = 'November') |>
+  addRasterImage(narw_abundance[[12]], colors = narw_pal, method = 'ngb', group = 'December') |>
+  addPolygons(data = sne, fillColor = 'transparent', color = 'white', popup = ~REGION) |>
+  addPolygons(data = mari, fillColor = 'transparent', color = 'white', popup = ~LEASENM, weight = 2, opacity = 1) |>
+  addLayersControl(overlayGroups = month.name, options = layersControlOptions(collapsed = TRUE)) |>
+  hideGroup(month.name[-1]) |>
+  addLegend(position = 'topleft', pal = narw_pal, values = duke_bins) |>
+  fitBounds(lng1 = sne_bb[1], lat1 = sne_bb[2], lng2 = sne_bb[3], lat2 = sne_bb[4])
+map
+```
+
 ## Vulnerability to Offshore Wind Development
 
 ### Noise
 
-[Nowacek, Johnson, and Tyack (2004)](https://royalsocietypublishing.org/doi/10.1098/rspb.2003.2570) found that North Atlantic right whales (NARWs) did not respond strongly to recordings of ship noise or social sounds of conspecifics. However, they did respond strongly to signals designed to alert the whales that resulted in disrupted behaviors. The whales exposed to the alert signal demonstrated abandoned dives, shallow-angled and high powered ascents, longer than usual surface intervals (ie, remaining at the surface for the duration of the exposure to the alert), and spent an abnomral amount of time near the surface at subsurface depths (1 - 10 meters).
+[Nowacek, Johnson, and Tyack (2004)](https://royalsocietypublishing.org/doi/10.1098/rspb.2003.2570) found that North Atlantic right whales (NARWs) did not respond strongly to recordings of ship noise or social sounds of conspecifics. However, they did respond strongly to signals designed to alert the whales that resulted in disrupted behaviors. The whales exposed to the alert signal demonstrated abandoned dives, shallow-angled and high powered ascents, longer than usual surface intervals (ie, remaining at the surface for the duration of the exposure to the alert), and spent an abnormal amount of time near the surface at subsurface depths (1 - 10 meters).
 
 "The alert sound was an 18 min exposure consisting of three 2 min signals played sequentially three times over. The three signals had a 60% duty cycle and consisted of: (i) alternating 1 s pure tones at 500 and 850 Hz; (ii) a 2 s logarithmic down-sweep from 4500 to 500 Hz; and (iii) a pair of low-high (1500 and 2000 Hz) sine wave tones amplitude modulated at 120 Hz and each 1 s long."
 
