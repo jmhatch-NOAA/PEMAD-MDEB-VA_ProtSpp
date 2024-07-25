@@ -1,0 +1,38 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>3.31929732055869e-05</HistMin>
+        <HistMax>2.1070396900177</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>35|30|6|20|14|5|13|7|14|17|12|7|9|8|5|10|11|3|3|4|34|37|38|41|48|81|203|260|319|319|389|250|202|189|163|153|146|112|101|94|79|94|83|76|82|72|71|94|93|80|95|77|87|66|71|72|62|62|52|51|50|42|44|52|39|52|44|45|28|48|32|33|41|40|31|34|37|43|35|40|40|38|32|28|36|22|16|28|19|16|16|22|20|22|22|25|14|22|11|22|20|17|16|21|18|13|18|15|24|20|22|22|20|22|18|17|18|16|19|13|15|14|20|19|14|17|19|14|20|11|18|13|14|15|15|21|12|24|16|15|11|17|17|16|26|30|25|38|31|32|28|35|33|36|39|32|52|47|44|38|33|36|35|24|31|35|28|31|21|38|39|60|51|39|38|52|31|41|41|52|45|48|36|42|52|62|46|57|59|50|57|52|51|44|37|25|32|35|43|51|34|28|29|26|15|12|15|15|7|9|13|13|6|11|6|6|9|8|8|13|9|7|12|11|11|14|7|12|7|7|4|4|9|3|2|2|3|4|3|1|1|2|1|2|2|1|2|0|2|0|2|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.2809584960480958</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.1070396900177</MDI>
+      <MDI key="STATISTICS_MEAN">0.72656167032978</MDI>
+      <MDI key="STATISTICS_MEDIAN">0.471011</MDI>
+      <MDI key="STATISTICS_MINIMUM">3.3192973205587e-05</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.53005518207833</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

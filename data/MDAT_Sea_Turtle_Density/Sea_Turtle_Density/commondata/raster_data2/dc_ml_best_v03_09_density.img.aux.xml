@@ -1,0 +1,38 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>2.359775635341066e-06</HistMin>
+        <HistMax>0.6119189858436584</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>3347|332|375|392|321|212|111|94|88|78|67|59|70|87|83|104|126|134|144|127|116|119|94|91|87|74|88|85|71|64|65|56|74|70|61|68|75|59|51|44|44|41|38|29|42|44|39|31|44|33|26|31|23|32|29|30|19|18|14|17|13|14|21|17|20|25|20|16|16|16|17|9|14|16|22|15|9|12|18|18|20|13|17|12|14|26|13|13|11|16|16|13|13|14|24|16|12|10|15|10|14|17|13|12|12|11|15|13|13|14|15|7|11|10|8|3|5|7|8|8|2|5|2|4|10|3|7|1|7|1|6|2|14|6|4|3|3|4|5|2|5|5|4|0|4|2|1|2|3|2|6|2|2|4|3|1|1|0|1|1|3|4|3|1|2|2|1|3|4|1|1|1|2|2|5|0|2|3|3|1|1|0|3|0|2|4|2|3|0|2|2|0|0|0|1|3|0|0|3|3|2|3|1|3|0|7|2|1|2|3|1|2|3|1|2|1|2|1|0|2|5|0|1|2|3|3|2|1|0|2|3|4|4|5|2|1|2|0|3|0|3|1|0|2|2|1|1|2|1|0|3|1|3|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.008653057360814306</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.61191898584366</MDI>
+      <MDI key="STATISTICS_MEAN">0.05641598042054</MDI>
+      <MDI key="STATISTICS_MEDIAN">0.012001</MDI>
+      <MDI key="STATISTICS_MINIMUM">2.3597756353411e-06</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.093021811210137</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

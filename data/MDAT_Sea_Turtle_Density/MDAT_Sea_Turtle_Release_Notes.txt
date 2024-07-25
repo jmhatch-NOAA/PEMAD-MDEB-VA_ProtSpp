@@ -1,0 +1,25 @@
+MDAT_SeaTurtle_ReleaseNotes.txt
+
+Marine-Life Data and Analysis Team (MDAT) release notes for sea turtle individual species density models in the US East Coast Atlantic waters.
+
+< Species included and current versions >
+Green Sea Turtle (Chelonia mydas), version 1.0
+Kemp's Ridley Sea Turtle (Lepidochelys kempii), version 1.0
+Leatherback Sea Turtle (Dermochelys coriacea), version 2.0
+Loggerhead Sea Turtle (Caretta caretta), version 1.0
+
+November 2023 Update
+The monthly leatherback density models were updated to version 2.0 using a corrected perception bias estimate. The remaining models are unchanged at version 1.0.
+
+Initial Release
+August 2023
+In August of 2023, MDAT added base layer products for four sea turtle species provided by the Navy Undersea Warfare Center (NUWC) Division Newport. NUWC created spatial density models estimating long term averages of density, abundance, and distribution for green, Kemp's Ridley, leatherback and loggerhead turtles from line transect survey data from seven providers covering roughly 1.2 million linear kilometers of effort (shipboard and aerial surveys). Details on the source data, methods, and results are in Sparks and DiMatteo (2023).
+
+References
+Curtice, C., Cleary J., Shumchenia E., Halpin P.N. 2019. Marine-life Data and Analysis Team (MDAT) technical report on the methods and development of marine-life data to support regional ocean planning and management. Prepared on behalf of the Marine-life Data and Analysis Team (MDAT). Accessed at: http://seamap.env.duke.edu/models/MDAT/MDAT-Technical-Report.pdf.
+
+Sparks, Laura M. and Andrew DiMatteo (2023) Sea Turtle Distribution and Abundance on the East Coast of the United States. Technical Report prepared for Naval Undersea Warfare Center Division Newport. Accessed at: https://seamap.env.duke.edu/seamap-models-files/NUWC/Reports/TR_12428_FINAL_2023-06-01.pdf
+
+DiMatteo Andrew, Roberts JJ, Jones D, Garrison L, Hart KM, Kenney RD, McLellan WA, Lomac-MacNair K, Palka D, Rickard ME, Roberts K, Zoidis AM, and Sparks L. (2023). Sea turtle density surface models along the United States Atlantic coast. Manuscript in review.
+
+Comments and questions may be sent to: marinelife_data@duke.edu.
