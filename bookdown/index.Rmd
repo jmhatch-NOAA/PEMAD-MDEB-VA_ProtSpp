@@ -48,10 +48,10 @@ expert-based scoring approach ([Hare et al.
 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643);
 Lettrich et al. *In progress*). Experts will be asked to score multiple
 features for two separate components: 1) overlap or exposure to factors
-related to offshore wind development (i.e., exposure factors) and 2)
-sensitivity to those exposure factors re: biological attributes. The
-expert scores for the two separate components would then be tallied and
-combined into a OSW vulnerability indicator.
+related to OSW development (i.e., exposure factors) and 2) sensitivity
+to those exposure factors re: biological attributes. The expert scores
+for the two separate components will then be tallied and combined into
+an OSW vulnerability indicator.
 
 The steps:
 

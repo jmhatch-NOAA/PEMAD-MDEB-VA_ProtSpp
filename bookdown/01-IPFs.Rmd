@@ -2,7 +2,7 @@
 
 ## What is an Impact Producing Factor?
 
-An action or activity, like offshore wind development, can result in one or more impact-producing factors (IPFs). Those IPFs illustrate how an action or activity affects relevant physical, biological, economic, or cultural resources. The effects or impacts resulting from the interaction between an IPF and a resource can be positive, negative, or neutral. Identifying multiple actions or activities and related IPFs, then, is one way to demonstrate cumulative impact on relevant resources and to assess how vulnerable those affected resources are to evaluated actions or activities.
+An action or activity, like OSW development, can result in one or more impact-producing factors (IPFs). Those IPFs illustrate how an action or activity affects relevant physical, biological, economic, or cultural resources. The effects or impacts resulting from the interaction between an IPF and a resource can be positive, negative, or neutral. Identifying multiple actions or activities and related IPFs, then, is one way to demonstrate cumulative impact on relevant resources and to assess how vulnerable those affected resources are to evaluated actions or activities.
 
 For more information, see [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-offshore-wind-cumulative-impacts-scenario-n-ocs).
 
@@ -10,7 +10,7 @@ For more information, see [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-off
 
 <br/>In the context of the OSWVA, the IPFs are the exposure factors.
 
-Offshore wind development will result in 4 primary IPFs that may affect protected species. Those IPFs include:
+OSW development will result in 4 primary IPFs that may affect protected species. Those IPFs include:
 
 -   Noise
 
@@ -34,12 +34,12 @@ Man-made underwater noise can disrupt the normal behavior of marine wildlife. It
 
 <br/>For zones 1, 3, and 4, man-made underwater noise must be detected by the animal for a disruption to occur. For zone 2, man-made underwater noise must contribute to ambient noise in a way that reduces the ability of animals to detect sounds of interest.
 
-All phases of offshore wind development will emit noise. Those phases include (1) site surveys, (2) construction, (3) operations and maintenance, and (4) decommissioning.
+All phases of OSW development will emit noise. Those phases include (1) site surveys, (2) construction, (3) operations and maintenance, and (4) decommissioning.
 
-![**Figure**: Major sources of sound and vibration from offshore wind farms during the pre-construction (left), construction (center), and operational (right) periods (not to scale). Sounds emitted from each source are indicated with red lines. Acoustic energy put into the substrate as a result of geophysical
+![**Figure**: Major sources of sound and vibration from OSW farms during the pre-construction (left), construction (center), and operational (right) periods (not to scale). Sounds emitted from each source are indicated with red lines. Acoustic energy put into the substrate as a result of geophysical
 and geotechnical surveys and the pounding of piles during construction can emanate back into the water at considerable distances from the sources themselves (Popper and Hastings, 2009; Hawkins et al., 2021). From [Popper et al. (2022)](https://pubs.aip.org/asa/jasa/article/151/1/205/2838069/Offshore-wind-energy-development-Research).](images/figure_1_Popper-et-al-2022.jpg){.class width="100%"}
 
-<br/>Below is a brief overview of underwater noise that could be generated during each phase of offshore wind development, which will vary by intensity and duration.
+<br/>Below is a brief overview of underwater noise that could be generated during each phase of OSW development, which will vary by intensity and duration.
 
 ### Site surveys
 
@@ -67,7 +67,7 @@ Example and audio files from [UMCES](https://www.umces.edu/cbl/story/2013/oct/16
 
 ### Operations and maintenance
 
-Most offshore wind farms will have a lifespan of 20 - 30 years. Operational noises are thought to extend several kilometers before attenuating at or below ambient noise levels, although certain tonal frequencies can extend as far as 10s of kilometers. Sound source levels for operational noise of offshore wind farms are thought to be equivalent to a large commercial ship. Operations and maintenance will also include vessel noise.
+Most OSW farms will have a lifespan of 20 - 30 years. Operational noises are thought to extend several kilometers before attenuating at or below ambient noise levels, although certain tonal frequencies can extend as far as 10s of kilometers. Sound source levels for operational noise of OSW farms are thought to be equivalent to a large commercial ship. Operations and maintenance will also include vessel noise.
 
 ### Decommissioning
  
