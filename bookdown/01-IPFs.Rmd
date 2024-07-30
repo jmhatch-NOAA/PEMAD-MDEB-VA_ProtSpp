@@ -36,7 +36,8 @@ Man-made underwater noise can disrupt the normal behavior of marine wildlife. It
 
 All phases of offshore wind development will emit noise. Those phases include (1) site surveys, (2) construction, (3) operations and maintenance, and (4) decommissioning.
 
-![**Figure**: Acoustic life of an offshore wind farm area, including during site surveys, construction, operations and maintenance, and decommissioning. From [Mooney et al. (2020)](https://tos.org/oceanography/article/acoustic-impacts-of-offshore-wind-energy-on-fishery-resources-an-evolving-source-and-varied-effects-across-a-wind-farms-lifetime).](images/figure_1_Mooney-et-al-2020.jpg){.class width="100%"}
+![**Figure**: Major sources of sound and vibration from offshore wind farms during the pre-construction (left), construction (center), and operational (right) periods (not to scale). Sounds emitted from each source are indicated with red lines. Acoustic energy put into the substrate as a result of geophysical
+and geotechnical surveys and the pounding of piles during construction can emanate back into the water at considerable distances from the sources themselves (Popper and Hastings, 2009; Hawkins et al., 2021). From [Popper et al. (2022)](https://pubs.aip.org/asa/jasa/article/151/1/205/2838069/Offshore-wind-energy-development-Research).](images/figure_1_Popper-et-al-2022.jpg){.class width="100%"}
 
 <br/>Below is a brief overview of underwater noise that could be generated during each phase of offshore wind development, which will vary by intensity and duration.
 
