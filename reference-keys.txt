@@ -1,10 +1,9 @@
 introduction
 vulnerability-assessment
-vulnerability-outcomes
-scope
-geographic
-species
-cvas
+scoping-and-planning
+define-study-area
+species-to-include
+define-exposures-and-sensitivities
 impact-producing-factors
 what-is-an-impact-producing-factor
 noise
