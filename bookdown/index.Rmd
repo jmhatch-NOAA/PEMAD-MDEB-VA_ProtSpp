@@ -31,6 +31,7 @@ However, OSW development in the US Greater Atlantic Region (GAR) coincides with 
 An OSW Vulnerability Assessment (OSWVA) will be designed in a similar way to previous Climate Vulnerability Assessments (CVAs) using an expert-based scoring approach ([Hare et al. 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146756); [Lettrich et al. 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643); Lettrich et al. *In progress*). Experts will be asked to score multiple features for two separate components: 1) overlap or exposure to factors related to OSW development (i.e., exposure factors) and 2) sensitivity to those exposure factors re: biological attributes. The expert scores for the two separate components will then be tallied and combined into an OSW vulnerability indicator.
 
 The steps:
+
 1.  Scoping and planning
     1.  Define study area
     2.  Identify species to include
@@ -78,7 +79,7 @@ map
 ### Define exposures and sensitivities
 
 | Exposure               | Sensitivity                                                         | Rationale                                                                                            |
-|-------------------|-----------------------------------|-------------------|
+|-------------------|----------------------------------|-------------------|
 | Noise (sound)          | Ability to detect (hearing) and respond to the acoustic environment | Marine wildlife are susceptible to negative effects of man-made noise generated from OSW development |
 | Oceanographic effects  |                                                                     |                                                                                                      |
 | Vessels                |                                                                     |                                                                                                      |
