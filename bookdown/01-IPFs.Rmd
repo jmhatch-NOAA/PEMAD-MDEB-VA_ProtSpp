@@ -13,11 +13,8 @@ For more information, see [BOEM (2019)](https://www.boem.gov/about-boem/ipfs-off
 OSW development will result in 4 primary IPFs that may affect protected species. Those IPFs include:
 
 -   Noise
-
 -   Oceanographic Effects
-
 -   Vessels
-
 -   Presence of Structures
 
 ## Noise

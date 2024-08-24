@@ -18,53 +18,27 @@ graphics: yes
 description: "Identify what protected species may be most vulnerable to offshore wind development."
 github-repo: jmhatch-NOAA/PEMAD-OWEB-VA_ProtSpp
 rmd_files: ["index.Rmd", "01-IPFs.Rmd", "02-narw.Rmd"]
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 # Introduction
 
-The increasing demand for renewable energy is driving offshore wind
-(OSW) development in the United States (US) at an unprecedented rate.
-The US has a target to reach 30 GW by 2030, with an additional 15 GW
-from floating substructures by 2035, and aims to produce at least 110 GW
-by 2050.
+The increasing demand for renewable energy is driving offshore wind (OSW) development in the United States (US) at an unprecedented rate. The US has a target to reach 30 GW by 2030, with an additional 15 GW from floating substructures by 2035, and aims to produce at least 110 GW by 2050.
 
-However, OSW development in the US Greater Atlantic Region (GAR)
-coincides with significant proportions of marine mammal and sea turtle
-populations, with impacts from OSW farms being a major concern. In order
-to better identify and prioritize vulnerabilities of marine wildlife
-(i.e., marine mammals and sea turtles) to OSW development, a
-vulnerability assessment will be undertaken.
+However, OSW development in the US Greater Atlantic Region (GAR) coincides with significant proportions of marine mammal and sea turtle populations, with impacts from OSW farms being a major concern. In order to better identify and prioritize vulnerabilities of marine wildlife (i.e., marine mammals and sea turtles) to OSW development, a vulnerability assessment will be undertaken.
 
 ## Vulnerability assessment
 
-An OSW Vulnerability Assessment (OSWVA) will be designed in a similar
-way to previous Climate Vulnerability Assessments (CVAs) using an
-expert-based scoring approach ([Hare et al.
-2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146756);
-[Lettrich et al.
-2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643);
-Lettrich et al. *In progress*). Experts will be asked to score multiple
-features for two separate components: 1) overlap or exposure to factors
-related to OSW development (i.e., exposure factors) and 2) sensitivity
-to those exposure factors re: biological attributes. The expert scores
-for the two separate components will then be tallied and combined into
-an OSW vulnerability indicator.
+An OSW Vulnerability Assessment (OSWVA) will be designed in a similar way to previous Climate Vulnerability Assessments (CVAs) using an expert-based scoring approach ([Hare et al. 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146756); [Lettrich et al. 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290643); Lettrich et al. *In progress*). Experts will be asked to score multiple features for two separate components: 1) overlap or exposure to factors related to OSW development (i.e., exposure factors) and 2) sensitivity to those exposure factors re: biological attributes. The expert scores for the two separate components will then be tallied and combined into an OSW vulnerability indicator.
 
 The steps:
-
 1.  Scoping and planning
     1.  Define study area
     2.  Identify species to include
     3.  Define OSW exposure factors
-        1.  Factors measuring physical change in the environment re: OSW
-            development that could impact marine wildlife
+        1.  Factors measuring physical change in the environment re: OSW development that could impact marine wildlife
             -   Scoring
     4.  Define sensitivity attributes
-        1.  Biological traits that indicate the ability of marine
-            wildlife to respond to the OSW exposure factors
+        1.  Biological traits that indicate the ability of marine wildlife to respond to the OSW exposure factors
             -   Scoring
 2.  Assessment preparation
     1.  Species narratives
@@ -80,7 +54,7 @@ The steps:
 library(leaflet)
 
 # data
-sne = '../data/sne_region.shp' |>
+sne = '../data/sne_region.gpkg' |>
   sf::st_read(quiet = TRUE)
 mari = '../data/mari_weas.gpkg' |>
   sf::st_read(quiet = TRUE)
@@ -104,11 +78,10 @@ map
 ### Define exposures and sensitivities
 
 | Exposure               | Sensitivity                                                         | Rationale                                                                                            |
-|------------------|------------------------------------|------------------|
+|-------------------|-----------------------------------|-------------------|
 | Noise (sound)          | Ability to detect (hearing) and respond to the acoustic environment | Marine wildlife are susceptible to negative effects of man-made noise generated from OSW development |
 | Oceanographic effects  |                                                                     |                                                                                                      |
 | Vessels                |                                                                     |                                                                                                      |
 | Presence of Structures |                                                                     |                                                                                                      |
 
-: **Table**: List of exposure factors and sensitivity attributes
-considered in the OSWVA for marine wildlife.
+: **Table**: List of exposure factors and sensitivity attributes considered in the OSWVA for marine wildlife.
