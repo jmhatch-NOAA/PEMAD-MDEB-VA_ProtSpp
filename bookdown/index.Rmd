@@ -43,7 +43,7 @@ The steps:
             -   Scoring
 2.  Assessment preparation
     1.  Species narratives
-    2.  Directional effect
+    2.  Adaptive capacity
     3.  Data quality
 
 ## Scoping and planning
