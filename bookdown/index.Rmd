@@ -1,12 +1,12 @@
 ---
-title: "Vulnerability Analysis for Protected Species & Offshore Wind"
+title: "Vulnerability Analysis for Protected Species & Marine Development"
 author: "Joshua Hatch"
 date: '`r Sys.Date()`'
 site: bookdown::bookdown_site
 output:
   bookdown::bs4_book:
     repo:
-      base: https://github.com/jmhatch-NOAA/PEMAD-OWEB-VA_ProtSpp
+      base: https://github.com/jmhatch-NOAA/PEMAD-OMDEB-VA_ProtSpp
       branch: main
       subdir: bookdown
 documentclass: krantz
@@ -15,8 +15,8 @@ monofontoptions: "Scale=0.7"
 link-citations: yes
 colorlinks: yes
 graphics: yes
-description: "Identify what protected species may be most vulnerable to offshore wind development."
-github-repo: jmhatch-NOAA/PEMAD-OWEB-VA_ProtSpp
+description: "Identify what protected species may be most vulnerable to marine development."
+github-repo: jmhatch-NOAA/PEMAD-MDEB-VA_ProtSpp
 rmd_files: ["index.Rmd", "01-IPFs.Rmd", "02-narw.Rmd"]
 ---
 
