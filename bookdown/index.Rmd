@@ -6,7 +6,7 @@ site: bookdown::bookdown_site
 output:
   bookdown::bs4_book:
     repo:
-      base: https://github.com/jmhatch-NOAA/PEMAD-OMDEB-VA_ProtSpp
+      base: https://github.com/jmhatch-NOAA/PEMAD-MDEB-VA_ProtSpp
       branch: main
       subdir: bookdown
 documentclass: krantz
